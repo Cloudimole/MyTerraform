@@ -1,0 +1,1 @@
+This git contains an EC2 infrastructure with nginx installed and created on Terraform.
